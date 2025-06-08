@@ -1,38 +1,40 @@
-# 💧 Water Tracker Flutter App
+# 💧 Water Tracker - Flutter App
 
-A simple and elegant water tracking app built with **Flutter**, designed to help users log daily water intake and stay hydrated. Users can set custom goals, track progress with a circular indicator, and review intake history.
+![GitHub repo size](https://img.shields.io/github/repo-size/mehnafiz/water_tracker_flutter?color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/mehnafiz/water_tracker_flutter)
+![Flutter](https://img.shields.io/badge/Made%20with-Flutter-02569B?logo=flutter&logoColor=white)
+
+A beautifully crafted **Water Tracker** app built using **Flutter**. This app helps users stay hydrated by setting daily water goals, tracking progress, and reviewing past intake history in a clean, user-friendly interface.
 
 ---
 
-## 📱 Features
+## 📱 Key Features
 
-- 🚰 Add water intake with 100mL, 500mL, and 1000mL buttons.
-- 🎯 Set and update daily water intake goal.
-- 📊 Visual progress tracker (circular indicator).
-- 📖 History drawer showing each day's intake and goal.
-- 🧠 Simple, intuitive UI with Material Design.
+✨ **Simple UI** – Minimal, elegant layout for seamless tracking  
+🚰 **Quick Add Buttons** – Instantly log 100mL, 500mL, or 1000mL with one tap  
+🎯 **Custom Goal Setting** – Change your daily water goal anytime  
+📊 **Live Progress** – See how much closer you are to your goal with a circular progress indicator  
+📖 **History Drawer** – Scroll through daily logs and review past performance  
 
 ---
 
 ## 🖼️ Screenshots
 
-| Section         | Screenshot |
-|-----------------|------------|
-| **Main Interface** | ![Main Interface](https://github.com/user-attachments/assets/49cc141b-9854-44e5-9ba9-aadd98b2dfa0) |
-| **Initial State** | ![Initial State](https://github.com/user-attachments/assets/f670b26f-8564-4b6c-bf17-1c9ccd5bd473) |
-| **Intake Goal** | ![Screenshot from 2025-06-08 13-54-52](https://github.com/user-attachments/assets/7963f6eb-22bf-4656-9d1b-ac491686d058) |
-| **Intake History** | ![Screenshot from 2025-06-08 13-56-27](https://github.com/user-attachments/assets/527b89b8-3359-4e66-84b9-bafe0b7f1971) |
+| Main Interface | Initial State |
+|----------------|----------------|
+| ![Main Interface](https://github.com/user-attachments/assets/49cc141b-9854-44e5-9ba9-aadd98b2dfa0) | ![Initial State](https://github.com/user-attachments/assets/f670b26f-8564-4b6c-bf17-1c9ccd5bd473) |
 
+| Intake Goal Dialog | Intake History |
+|---------------------|----------------|
+| ![Intake Goal](https://github.com/user-attachments/assets/7963f6eb-22bf-4656-9d1b-ac491686d058) | ![History](https://github.com/user-attachments/assets/527b89b8-3359-4e66-84b9-bafe0b7f1971) |
 
 ---
 
 ## 🚀 Getting Started
 
-### Prerequisites
-- Flutter SDK
-- Dart
+### 🔧 Prerequisites
 
-### Run the app
+Ensure you have Flutter installed. If not:
+
 ```bash
-flutter pub get
-flutter run
+flutter doctor
