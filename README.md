@@ -20,8 +20,9 @@ A simple and elegant water tracking app built with **Flutter**, designed to help
 |-----------------|------------|
 | **Main Interface** | ![Main Interface](https://github.com/user-attachments/assets/49cc141b-9854-44e5-9ba9-aadd98b2dfa0) |
 | **Initial State** | ![Initial State](https://github.com/user-attachments/assets/f670b26f-8564-4b6c-bf17-1c9ccd5bd473) |
-| **Intake History** | ![Screenshot from 2025-06-08 13-56-27](https://github.com/user-attachments/assets/527b89b8-3359-4e66-84b9-bafe0b7f1971) |
 | **Intake Goal** | ![Screenshot from 2025-06-08 13-54-52](https://github.com/user-attachments/assets/7963f6eb-22bf-4656-9d1b-ac491686d058) |
+| **Intake History** | ![Screenshot from 2025-06-08 13-56-27](https://github.com/user-attachments/assets/527b89b8-3359-4e66-84b9-bafe0b7f1971) |
+
 
 ---
 
