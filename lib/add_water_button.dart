@@ -21,7 +21,7 @@ class add_water_button extends StatelessWidget {
             '+${amount} mL',
             style: TextStyle(fontSize: 20, fontWeight: FontWeight.w700),
           ),
-          icon: Icon(Icons.local_drink),
+          icon: Icon(Icons.water_drop),
         ),
       ),
     );
