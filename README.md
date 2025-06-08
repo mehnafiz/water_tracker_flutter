@@ -1,16 +1,41 @@
-# water_tracker_flutter
+# 💧 Water Tracker Flutter App
 
-A new Flutter project.
+A simple and elegant water tracking app built with **Flutter**, designed to help users log daily water intake and stay hydrated. Users can set custom goals, track progress with a circular indicator, and review intake history.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🚰 Add water intake with 100mL, 500mL, and 1000mL buttons.
+- 🎯 Set and update daily water intake goal.
+- 📊 Visual progress tracker (circular indicator).
+- 📖 History drawer showing each day's intake and goal.
+- 🧠 Simple, intuitive UI with Material Design.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🖼️ Screenshots
+
+### Home Screen – Track Your Intake
+![Home](screenshots/home.png)
+
+### Set Daily Goal Dialog
+![Goal](screenshots/set_goal.png)
+
+### Intake History Drawer
+![History](screenshots/history.png)
+
+> 💡 Add your screenshots in a `screenshots` folder in your repo. Update the image paths above if your filenames are different.
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Flutter SDK
+- Dart
+
+### Run the app
+```bash
+flutter pub get
+flutter run
